@@ -1,0 +1,8 @@
+{
+  "name": "智享教育资源论坛",
+  "description": "高性能学生学习资源分享平台，集成AI内容分析与结构化云盘分享功能。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
